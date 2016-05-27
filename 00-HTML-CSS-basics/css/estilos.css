@@ -1,0 +1,94 @@
+*
+{
+	font-family: 'PT Sans Caption', sans-serif !important;
+	font-size: 14px !important;
+}
+
+
+#principal {
+  float: left;
+  width: 85%;
+}
+
+#seccion {
+	margin: auto;
+	margin-top: 20px;
+	width: 960px;
+	height: 600px;
+}
+#seccion #header{
+	
+	padding: 20px;
+	width: 700px;
+	height: 200px;
+}
+
+
+.header {
+	color: white;
+	width: 100%;
+	background: #FF00FF;
+	height: 200px;
+	border-radius: 10px 10px 10px 10px;
+
+}
+
+.content {
+	color: red;
+	font-size: 14px;
+	background: blue;
+	width: 79%;
+	float: left;
+	border-radius: 10px 10px 10px 10px;
+
+
+
+}
+
+.navigation {
+	color: white;
+	font-size: 12px;
+	background: blue;
+	border-radius: 10px 10px 10px 10px;
+	float: left;
+
+
+
+}
+
+.sidebar {
+	color: #D0E480;
+	font-size: 10px;
+	background: #FF00FF;
+	width:150px;
+ margin: 0;
+ float: right;
+  clear: both;
+
+}
+
+.footer{
+	color: #2A0830;
+	font-size: 10px;
+	background: #FF00FF;
+}
+aside
+{ 
+	background:#8A8C0C ;
+}
+nav
+{
+	background:#C2ECF9;
+
+}
+footer 
+{
+	width: 100%;
+	height: 200px;
+    background: #CB3660;
+    
+    clear: both;
+    padding: 10 px;
+    margin-top: 20px;
+    border-radius: 10px 10px 10px 10px;
+}
